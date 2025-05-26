@@ -34,26 +34,9 @@ Lista das consequências diretas da poluição, como:
 *Degradação do Solo: Diminuição da fertilidade, afetando a produção agrícola e a segurança alimentar.
 
 
-
 #### Conclusão:
 
 A poluição ambiental é um problema grave que afeta a saúde, os ecossistemas e o clima. Para combatê-la, é crucial adotar políticas rigorosas, usar tecnologias limpas e promover práticas sustentáveis, com a colaboração de governos, empresas e indivíduos. A conscientização e a ação conjunta são essenciais para proteger o futuro do planeta.
-
-#### Rodapé (Footer):
-
-Link para a página do LinkedIn do autor, incentivando a ação: "Faça parte dessa causa!".
-
-Como Rodar o Projeto:
-* Clone ou faça o download do repositório.
-* Abra o arquivo index.html em um navegador de sua escolha.
-
-#### Contribuições
-Se você deseja contribuir para este projeto, por favor, siga as etapas abaixo:
-* Faça um fork deste repositório.
-* Crie uma branch com sua feature ou correção: git checkout -b minha-nova-feature.
-* Faça o commit das suas mudanças: git commit -am 'Adiciona nova funcionalidade'.
-* Envie a branch para o repositório remoto: git push origin minha-nova-feature.
-* Abra um pull .request
 
 #### Licença
 Este projeto está licenciado sob a MIT License.
